@@ -28,7 +28,13 @@ It is designed for final and pre-final year engineering students preparing for c
 
 ## Screenshots
 
-> Screenshots and demo GIF will be added here.
+**Welcome screen**
+
+![PlaceBot welcome screen](screenshots/welcome.png)
+
+**Stress support panel with onboarding in progress**
+
+![PlaceBot stress panel](screenshots/stress-panel.png)
 
 ---
 
